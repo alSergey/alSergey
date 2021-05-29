@@ -4,6 +4,10 @@
 
 ## PetProjects
 
+* ### Сервис размещения объявлений YSNP.KOYA
+    * [Frontend на чистом JS, SCSS, сборка webpack, сборка и деплой через GitHub Actions, продвижение товаров через ЮMoney, поиска по карте через Яндекс Карты, авторизация через ВК OAuth, логирование ошибок через Sentry](https://github.com/alSergey/2021_1_YSNP_frontend)
+    * [Backend на GO, 3 микросервиса (Core, Чаты, Авторизация), сборка и деплой через GitHub Actions, хранение данных пользователей в Postgres, сессии и рекомендации пользователей в Trantool, удаленный конфиг через Consul, хранение паролей в Vault, хранение метрик prometheus, telegram alertmanager-bot, сбор метрик системы через node_exporter, вывод метрик через grafana, логирование микросервисов jaeger, хранение логов graylog](https://github.com/alSergey/2021_1_YSNP_backend)
+
 * #### [Облачный сервис YSNP.CLOUD (аналог Dropbox) на C++, QT, Boost](https://github.com/alSergey/YSNP.Cloud)
 
 * #### [Teхно форум на DJANGO](https://github.com/alSergey/TechMain_2020_Web)
@@ -19,9 +23,7 @@
 
 ## Проекты в работе
 
-* ### Сервис размещения объявлений YSNP.KOYA
-    * [Frontend на чистом JS](https://github.com/frontend-park-mail-ru/2021_1_YSNP/tree/dev)
-    * [Backend на GO](https://github.com/go-park-mail-ru/2021_1_YSNP)
+* #### [API Форума на GO + Postgres](https://github.com/alSergey/TechMain_2021_db_forum)
 
 ## Образование
 
@@ -35,8 +37,8 @@
 
 ## Навыки и умения
 
-| **Стек технологий** | *HTML, CSS, Vanilla JS(ES6), React, git, Node.js, Go, C/C++, Boost, Python, C#, Swift.* |
-|------------------|--------------------------------------------------------------------------------------------|
+| **Стек технологий** | *HTML, CSS, SCSS, Vanilla JS(ES6), WebSocket, React, WebPack, git, Node.js, Go, C/C++, Boost, Python, C#, Swift.* |
+|------------------|----------------------------------------------------------------------------------------------------------------------|
 | **Операционные системы** | *Ubuntu, Mac OS, Windows* | 
 | **DataBases** | *PostgreSQL, MongoDB, Microsoft SQL Server, SQLite* | 
 | **Тестирование** | *GO (go test), C/C++ (gtest)* | 
