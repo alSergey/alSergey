@@ -6,7 +6,7 @@
 
 * ### Сервис размещения объявлений YSNP.KOYA
     * [Frontend на чистом JS, SCSS, сборка webpack, сборка и деплой GitHub Actions, продвижение товаров ЮMoney, поиска по карте Яндекс Карты, авторизация ВК OAuth, логирование ошибок Sentry](https://github.com/alSergey/2021_1_YSNP_frontend)
-    * [Backend на GO, 3 микросервиса (Core, Чаты, Авторизация), сборка и деплой GitHub Actions, хранение данных пользователей Postgres, сессии и рекомендации Trantool, удаленный конфиг Consul, хранение паролей Vault, хранение метрик prometheus, telegram alertmanager-bot, сбор метрик системы node_exporter, вывод метрик grafana, логирование микросервисов jaeger, хранение логов graylog](https://github.com/alSergey/2021_1_YSNP_backend)
+    * [Backend на GO, 3 микросервиса (Core, Чаты, Авторизация), сборка и деплой GitHub Actions, хранение данных пользователей Postgres, сессии и рекомендации Trantool, удаленный конфиг Consul, хранение паролей Vault, хранение метрик Prometheus, Telegram Alertmanager-bot, сбор метрик системы Node_Exporter, вывод метрик Grafana, логирование микросервисов Jaeger, хранение логов Graylog](https://github.com/alSergey/2021_1_YSNP_backend)
 
 * #### [Облачный сервис YSNP.CLOUD (аналог Dropbox) на C++, QT, Boost](https://github.com/alSergey/YSNP.Cloud)
 
