@@ -7,7 +7,7 @@
 * ### Сервис размещения объявлений YSNP.KOYA
     * [Деплой сайт](https://ykoya.ru) 
     * [Frontend на чистом JS, SCSS, сборка webpack, сборка и деплой GitHub Actions, продвижение товаров ЮMoney, поиска по карте Яндекс Карты, авторизация ВК OAuth, логирование ошибок Sentry](https://github.com/alSergey/2021_1_YSNP_frontend)
-    * [Backend на GO, 3 микросервиса (Core, Чаты, Авторизация), сборка и деплой GitHub Actions, хранение данных пользователей Postgres, сессии и рекомендации Trantool, удаленный конфиг Consul, хранение паролей Vault, хранение метрик Prometheus, Telegram Alertmanager-bot, сбор метрик системы Node_Exporter, вывод метрик Grafana, логирование микросервисов Jaeger, хранение логов Graylog](https://github.com/alSergey/2021_1_YSNP_backend)
+    * [Backend на GO, 3 микросервиса (Core, Чаты, Авторизация), сборка и деплой GitHub Actions, хранение данных пользователей Postgres, сессии и рекомендации Trantool, удаленный конфиг Consul, хранение паролей Vault, хранение метрик Prometheus, Telegram Alertmanager-bot, сбор метрик системы Node_exporter, вывод метрик Grafana, логирование микросервисов Jaeger, хранение логов Graylog](https://github.com/alSergey/2021_1_YSNP_backend)
 
 * #### [Облачный сервис YSNP.CLOUD (аналог Dropbox) на C++, QT, Boost](https://github.com/alSergey/YSNP.Cloud)
 
@@ -38,9 +38,9 @@
 
 ## Навыки и умения
 
-| **Стек технологий** | *HTML, CSS, SCSS, Vanilla JS(ES6), WebSocket, React, WebPack, git, Node.js, Go, C/C++, Boost, Python, C#, Swift.* |
-|------------------|----------------------------------------------------------------------------------------------------------------------|
+| **Стек технологий** | *HTML, CSS, SCSS, Vanilla JS(ES6), WebSocket, React, WebPack, Git, Docker, Docker-compose, Node.js, Go, C/C++, Boost, Python, C#, Swift.* |
+|---------------------|----------------------------------------------------------------------------------------------------------------------|
 | **Операционные системы** | *Ubuntu, Mac OS, Windows* | 
 | **DataBases** | *PostgreSQL, MongoDB, Microsoft SQL Server, SQLite* | 
 | **Тестирование** | *GO (go test), C/C++ (gtest)* | 
-| **Доп. навыки** | *Деплой, настройка Nginx* |
+| **Доп. навыки** | *Деплой, GitHub Action, настройка Nginx* |
