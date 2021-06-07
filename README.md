@@ -9,6 +9,8 @@
     * [Frontend на чистом JS, SCSS, сборка webpack, сборка и деплой GitHub Actions, продвижение товаров ЮMoney, поиска по карте Яндекс Карты, авторизация ВК OAuth, логирование ошибок Sentry](https://github.com/alSergey/2021_1_YSNP_frontend)
     * [Backend на GO, 3 микросервиса (Core, Чаты, Авторизация), сборка и деплой GitHub Actions, хранение данных пользователей Postgres, сессии и рекомендации Trantool, удаленный конфиг Consul, хранение паролей Vault, хранение метрик Prometheus, Telegram Alertmanager-bot, сбор метрик системы Node_exporter, вывод метрик Grafana, логирование микросервисов Jaeger, хранение логов Graylog](https://github.com/alSergey/2021_1_YSNP_backend)
 
+* #### [API Форума на GO + PostgreSQL](https://github.com/alSergey/TechMain_2021_db_forum)
+
 * #### [Облачный сервис YSNP.CLOUD (аналог Dropbox) на C++, QT, Boost](https://github.com/alSergey/YSNP.Cloud)
 
 * #### [Teхно форум на DJANGO](https://github.com/alSergey/TechMain_2020_Web)
@@ -21,10 +23,6 @@
     * [Деплой сайтов](https://alsergey.github.io/2020_JS/)
 
 * #### [Приложение BMSTudent на Swift](https://github.com/alSergey/BMSTudent)
-
-## Проекты в работе
-
-* #### [API Форума на GO + Postgres](https://github.com/alSergey/TechMain_2021_db_forum)
 
 ## Образование
 
