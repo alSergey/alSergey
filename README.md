@@ -42,3 +42,4 @@
 | **DataBases** | *PostgreSQL, MongoDB, Microsoft SQL Server, SQLite* | 
 | **Тестирование** | *GO (go test), C/C++ (gtest)* | 
 | **Доп. навыки** | *Деплой, GitHub Action, настройка Nginx* |
+| **Английский** | *intermediate* |
