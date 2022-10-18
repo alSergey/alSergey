@@ -4,9 +4,12 @@
 
 ## PetProjects
 
+* ### Сервис автолюбителей CarLife 
+    * [Frontend на React с использованием VK Mini App, VKUI, VKIcons, TypeScript, css модули, сборка и деплой GitHub Actions, логирование ошибок Sentry, метрики Яндекс.Метрики](https://github.com/alSergey/car-life-frontend)
+    * [Backend на GO, сборка и деплой GitHub Actions, хранение данных пользователей Postgres](https://github.com/dantedoyl/car-life-api)
+
 * ### Сервис размещения объявлений YSNP.KOYA
-    * [Деплой сайт](https://ykoya.ru) 
-    * [Frontend на чистом JS, SCSS, сборка webpack, сборка и деплой GitHub Actions, продвижение товаров ЮMoney, поиска по карте Яндекс Карты, авторизация ВК OAuth, логирование ошибок Sentry](https://github.com/alSergey/2021_1_YSNP_frontend)
+    * [Frontend на чистом JS, SCSS, сборка webpack, сборка и деплой GitHub Actions, продвижение товаров ЮMoney, поиска по карте Яндекс Карты, авторизация ВК OAuth, логирование ошибок Sentry, метрики Яндекс.Метрики](https://github.com/alSergey/2021_1_YSNP_frontend)
     * [Backend на GO, 3 микросервиса (Core, Чаты, Авторизация), сборка и деплой GitHub Actions, хранение данных пользователей Postgres, сессии и рекомендации Trantool, удаленный конфиг Consul, хранение паролей Vault, хранение метрик Prometheus, Telegram Alertmanager-bot, сбор метрик системы Node_exporter, вывод метрик Grafana, логирование микросервисов Jaeger, хранение логов Graylog](https://github.com/alSergey/2021_1_YSNP_backend)
 
 * #### [API Форума на GO + PostgreSQL](https://github.com/alSergey/TechMain_2021_db_forum)
@@ -31,15 +34,18 @@
     * Курс «Подготовительный курс С/C++» | 2020
     * Курс «Системный архитектор» | 2020 - 2022
 
-* #### МГТУ ИМ. Н.Э. БАУМАНА Информатика и Системы управления (Бакалавриат) | 2018-2022
+* #### МГТУ ИМ. Н.Э. БАУМАНА Информатика и Системы управления (бакалавр) | 2018-2022
     * Специальность: Системы обработки информации и управления.
+
+* #### МГТУ ИМ. Н.Э. БАУМАНА Информатика и Системы управления (магистр) | 2022-Н.В.
+  * Специальность: Системы обработки информации и управления.
 
 ## Навыки и умения
 
-| **Стек технологий** | *HTML, CSS, SCSS, Vanilla JS(ES6), WebSocket, React, WebPack, Git, Docker, Docker-compose, Node.js, Go, C/C++, Boost, Python, C#, Swift.* |
-|---------------------|----------------------------------------------------------------------------------------------------------------------|
-| **Операционные системы** | *Ubuntu, Mac OS, Windows* | 
-| **DataBases** | *PostgreSQL, MongoDB, Microsoft SQL Server, SQLite* | 
-| **Тестирование** | *GO (go test), C/C++ (gtest)* | 
-| **Доп. навыки** | *Деплой, GitHub Action, настройка Nginx* |
-| **Английский** | *intermediate* |
+| **Стек технологий**       | *HTML, CSS, SCSS, Vanilla JS(ES6), WebSocket, React, Vue, WebPack, Git, Docker, Docker-compose, Node.js, Go, C/C++, Boost, Python, C#, Swift.* |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Операционные системы**  | *Ubuntu, Mac OS, Windows*                                                                                                                      |
+| **DataBases**             | *PostgreSQL, MongoDB, Microsoft SQL Server, SQLite*                                                                                            |
+| **Тестирование**          | *GO (go test), C/C++ (gtest)*                                                                                                                  |
+| **Доп. навыки**           | *Деплой, GitHub Action, настройка Nginx*                                                                                                       |
+| **Английский**            | *intermediate*                                                                                                                                 |
